@@ -15,5 +15,5 @@
 ## 搜索栏
 - in:name xxx 项目标题中含有
 - in:description xxx 描述中含有
-- stars:> 100
-- pushed:> 2019-12 最后提交时间
+- stars:>100
+- pushed:>2019-12 最后提交时间
